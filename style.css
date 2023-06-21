@@ -1,0 +1,33 @@
+body{
+    font-family: sans-serif;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flexy{
+    display: flex;
+    height: 40vh;
+    justify-content: center;
+    width: 100%;
+    gap: 20px;
+}
+img{
+    width: 100px;
+    margin-top: 60px;
+}
+.btn1{
+    background-color: rgb(70, 148, 250);
+    color: white;
+    padding: 1%;
+    border: 3px solid grey;
+
+}
+.btn1:hover{
+    border: black 3px solid;
+}
+div.button{
+    display: flex;
+    justify-content: center;
+}
